@@ -64,6 +64,7 @@ For Windows: Use RDP and the password generated with your key.
 ![image](https://github.com/user-attachments/assets/32cd179f-3beb-4d21-8a64-8fc78eca7ecd)
 
 ## Result: 
+
 Therefore, an EC2 instance is launched in AWS cloud
 
 
